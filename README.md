@@ -1,1 +1,1 @@
-# Simon_Wagner24.github.io
+# SimonWagner24.github.io
