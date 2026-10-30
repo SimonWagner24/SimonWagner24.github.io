@@ -1,0 +1,19 @@
+        body{
+            background-color:LemonChiffon;
+        }
+        header,footer{
+            background-color:SkyBlue;
+        }
+        footer{
+            font-size:2em;
+        }
+        table, th, tr, td{
+            border: 3px black dashed;
+            border-collapse: collapse;
+        }
+        .first{
+            font-size: 3em;
+        }
+        .second{
+            color:skyblue;
+        }
